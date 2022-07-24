@@ -1,3 +1,4 @@
+// This program is game which you will be playing with computer. You have to enter one of the given options and computer with select it's option and the result of who won will be displayed on screen. 
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
