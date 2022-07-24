@@ -1,3 +1,4 @@
+//After running this program, it will ask you to guess a number between 1 to 100 and let you know if your guess is correct or not with an random number generated. Enjoy playing it!!
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
