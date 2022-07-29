@@ -1,2 +1,2 @@
 # Projects
-Self-made projects
+Self-made and College projects
